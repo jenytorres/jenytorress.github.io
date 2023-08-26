@@ -1,5 +1,5 @@
 <?php
-$dbhost = "BD/querubin.sql";
+$dbhost = "localhost";
 $dbuser = "root";
 $dbpass = "";
 $dbname = "querubin";
